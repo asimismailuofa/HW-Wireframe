@@ -1,0 +1,55 @@
+body {
+
+    background-color: rgb(71, 64, 64);
+}
+
+
+header{
+    background-color: rgb(174, 189, 189);
+    padding: 30px;
+    margin: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+    nav {
+
+        background-color: rgb(174, 189, 189);
+        padding: 30px;
+        margin: 20px;
+        font-size: 30px;
+        text-align: center;
+    }
+
+
+section {
+
+    background-color: rgb(174, 189, 189);
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    width: 512px;
+    position: relative;
+    left: 100px;
+}
+
+aside {
+
+    float:right;
+    width: 512px;
+    background-color: rgb(174, 189, 189);
+    padding: 30px;
+    margin: 20px;
+    margin: 20px;
+}
+footer{
+
+    background-color: rgb(174, 189, 189);
+    padding: 30px;
+    margin: 20px;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 300px;
+    
+}
